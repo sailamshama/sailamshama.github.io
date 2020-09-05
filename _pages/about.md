@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-EDIT
-DESIGN
-A multi-faceted, critical thinker with a B.ASc. in Engineering Physics from The University of Toronto. As proud wearer of the Iron Ring, I am excited to fulfill the challenging roles needed by industries today. In particular, I am excited by Data Engineering and Analytics as it allows me to use my education to make an impact on teams. I enjoy picking up skills for fun so I can approach problems from as many angles as possible. 
+I am a multi-faceted, critical thinker based in Toronto. I recently earned my B.A.Sc. in Engineering Physics from The University of Toronto. As proud wearer of the Iron Ring, I am excited to fulfill the challenging roles needed by industries today. In particular, I am excited by Data Engineering and Analytics as it allows me to directly use my education to make an impact on teams. I enjoy picking up skills for fun so I can approach problems from as many angles as possible. 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
